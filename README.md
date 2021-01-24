@@ -11,6 +11,12 @@ If my work helped you, please consider chipping in at: https://www.patreon.com/a
 
 https://www.patreon.com/creator-home
 
+Dashboard: https://www.patreon.com/dashboard/earnings
+
+### Creator Page
+
+Edit: https://www.patreon.com/edit/about
+
 #### Posts
 
 [New Text Post](https://www.patreon.com/posts/46595011/edit)
@@ -21,9 +27,6 @@ https://www.patreon.com/creator-home
 
 [New Poll](https://www.patreon.com/posts/46595026/edit)
 
-### Creator Page
-
-Edit: https://www.patreon.com/edit/about
 
 ### Support
 
