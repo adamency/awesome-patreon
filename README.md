@@ -1,3 +1,9 @@
+## Donations
+
+Hello, I work on this project to help you use Patreon more easily than in the website, by aggregating a quick cheathseet of actions and respective shortcut links to each one of them.
+
+If my work helped you, please consider chipping in at: https://www.patreon.com/adamency
+
 # awesome-patreon
 
 
