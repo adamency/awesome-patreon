@@ -13,6 +13,8 @@ https://www.patreon.com/creator-home
 
 Dashboard: https://www.patreon.com/dashboard/earnings
 
+Account Settings: https://www.patreon.com/edit/settings
+
 ### Creator Page
 
 Edit: https://www.patreon.com/edit/about
